@@ -1,6 +1,5 @@
 # 📊 LangChain-Streamlit: SQL Interview
 
----
 Repo: https://github.com/iceyisaak/langchain-streamlit-sql-interview
 
 
