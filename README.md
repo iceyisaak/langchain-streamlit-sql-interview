@@ -2,6 +2,10 @@
 
 Repo: https://github.com/iceyisaak/langchain-streamlit-sql-interview
 
+Postgresql on DockerCompose: https://github.com/iceyisaak/postgresql-pgadmin-pgvector-docker-compose
+
+---
+
 
 An interactive Streamlit application that allows users to query their SQL databases (SQLite or PostgreSQL) using natural language. Powered by **LangChain**, **Groq (Llama 3.1)**, and **SQLAlchemy**.
 
